@@ -1,0 +1,19 @@
+node_modules
+
+#ignore environment vars
+.env
+.env.local
+.env.example
+
+
+#ignore all db
+*.sqlite
+*.db
+
+#ignore log files
+logs/
+*.log
+npm-debug.log*
+
+#ignore vs code files
+.vscode/
