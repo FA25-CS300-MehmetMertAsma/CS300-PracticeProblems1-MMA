@@ -1,0 +1,6 @@
+/**
+ * Post Model
+ * 
+ * Defines the 
+ * 
+ */
